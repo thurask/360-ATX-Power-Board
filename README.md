@@ -73,3 +73,6 @@ Import project files into KiCad 8 and export to your PCB manufacturing service o
 
 # Contributing
 Feel free to do what you like with this; build it, change it, fix it, sell it, whatever. If you do make improvements it'd be super cool to make those publicly available.
+
+# License
+CC0-1.0
