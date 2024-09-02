@@ -27,7 +27,7 @@ At least Xbox 360 models Xenon, Zephyr, Opus, Falcon, Jasper, i.e. anything with
 8. Turn on Xbox 360; all LEDs should light up, as should your Xbox
 
 # Building the PCB
-Import project files into KiCad 8 and export to your PCB manufacturing service of choice, or just use the files in the grbl subfolder.
+Import project files into KiCad 8 and export to your PCB manufacturing service of choice, or just use the files in the grbl subfolder. It's a four layer PCB and it'll carry quite a bit of current, so I recommend thicker than default copper.
 
 # BOM
 - Connectors
